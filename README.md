@@ -16,4 +16,4 @@
 7. 去除**帖子内视频试看59秒限制**；
 #### 脚本地址
 1. greasyfork：[点击前往](https://greasyfork.org/zh-CN/scripts/420108-%E5%AE%89%E9%9D%99%E7%9C%8B%E6%89%8B%E6%9C%BA%E8%99%8E%E6%89%91)
-2. github：
+2. github：[点击前往](https://github.com/as614001/JShupu)
